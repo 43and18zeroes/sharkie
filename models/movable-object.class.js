@@ -13,7 +13,7 @@ class MovableObject {
     }
 
     // Hier wird auf "function" vor "moveUp()" bewusst verzichtet,
-    // da es sich bei einer class um etwas relativ modernes handelt.
+    // da es sich bei einer class um etwas relativ Modernes handelt.
     // In moderneren Elementen kann darauf verzichtet werden. 
     moveUp() {
         console.log('Moving up');
